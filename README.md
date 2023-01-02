@@ -1,7 +1,5 @@
 ## Description
 
-Marketplace server repository.
-
 ## Installation
 
 ```bash
